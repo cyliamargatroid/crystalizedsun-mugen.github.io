@@ -13,7 +13,7 @@ github_username:  kde
 
 # Build settings
 markdown: kramdown
-theme: jekyll-kde-theme
+theme: jekyll-theme-minimal
 sass:
   style: compressed
 [...MORE CONFIGURATIONS NOT SHOWN...]
